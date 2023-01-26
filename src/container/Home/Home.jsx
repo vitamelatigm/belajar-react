@@ -22,7 +22,7 @@ class Home extends Component {
                 ))
             }
         
-            <p>Counter</p>
+            <p>Counter mel</p>
             <hr/>
             <Product/>
 
