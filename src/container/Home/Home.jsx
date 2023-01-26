@@ -9,7 +9,7 @@ class Home extends Component {
         
         // console.log(data)
         return <div>
-             <p>YouTube Component</p>
+             <p>Component </p>
             <hr/>
             {
                 data.map(value =>(
